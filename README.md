@@ -29,12 +29,12 @@
 ## Technologies Used
 
 - **HTML5**
-- **CSS3**
+- **CSS**
 - **JavaScript**
 
 ## Live Demo
 
-You can view the live version of my portfolio website at: <a href = https://kamlakanwar.github.io/password-generator/>Visit 🚀</a>
+You can view the live version of this website at: <a href = https://kamlakanwar.github.io/password-generator/>Visit 🚀</a>
 
 ## Setup and Installation
 
