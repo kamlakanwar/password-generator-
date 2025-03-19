@@ -48,14 +48,6 @@ You can view the live version of this website at: <a href = https://kamlakanwar.
     ```bash
     cd password-generator
     ```
-3. **Install dependencies (if any):**
-    ```bash
-    npm install
-    ```
-4. **Start the development server:**
-    ```bash
-    npm start
-    ```
 
 ## Usage
 Once the server is running, you can view the website by navigating to `http://localhost:3000` in your web browse.
